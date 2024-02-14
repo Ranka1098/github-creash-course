@@ -10,3 +10,7 @@ console.log("name" + name1);
 function isAbove18(){
 return age>=18 ;
 }
+
+function newName(){
+    console.log("new name is" + name1);
+}
