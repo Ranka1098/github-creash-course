@@ -18,3 +18,7 @@ function newName(){
 function age(){
 return age >= 20;
 }
+
+function hello(){
+console.log("hello")
+}
