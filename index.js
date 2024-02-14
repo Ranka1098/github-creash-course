@@ -14,3 +14,7 @@ return age>=18 ;
 function newName(){
     console.log("new name is" + name1);
 }
+
+function age(){
+return age >= 20;
+}
