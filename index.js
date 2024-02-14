@@ -21,4 +21,5 @@ return age >= 20;
 
 function hello(){
 console.log("hello")
+console.log("world")
 }
